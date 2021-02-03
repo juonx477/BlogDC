@@ -1,4 +1,4 @@
-//query Selector 
+ --//query Selector 
 
 const heading = document.querySelector('#heading');
 
@@ -24,5 +24,5 @@ navegacion.appendChild(idioma);
 console.log(idioma);
 
 window.onscroll = function(){
-    console.log('jodete...');
+    console.log('mostrando...');
 }
