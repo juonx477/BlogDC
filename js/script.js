@@ -24,5 +24,5 @@ navegacion.appendChild(idioma);
 console.log(idioma);
 
 window.onscroll = function(){
-    console.log('jodete...');
+    console.log('mostrando...');
 }
