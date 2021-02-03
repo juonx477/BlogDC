@@ -26,3 +26,4 @@ console.log(idioma);
 window.onscroll = function(){
     console.log('mostrando...');
 }
+
